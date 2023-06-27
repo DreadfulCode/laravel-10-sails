@@ -11,7 +11,6 @@ Laravel 10 Sails Starter with Breeze, Inertia, Vue 3, Postgres 15, and Mailpit
 
 `./vendor/bin/sail artisan list`
 
-
 # Unit Testing:
 
-`./vendor/bin/phpunit test`
+`./vendor/bin/phpunit tests`
