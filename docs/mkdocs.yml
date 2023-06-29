@@ -1,7 +1,7 @@
 site_name: Basic MkDocs Example Project
 docs_dir: ./public/docs
 theme:
-  name: mkdocs
+  name: readthedocs
   highlightjs: true
 plugins:
   - search
