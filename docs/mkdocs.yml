@@ -1,6 +1,7 @@
 site_name: Basic MkDocs Example Project
+docs_dir: public/docs
 theme:
-  name: readthedocs
+  name: alabaster
   highlightjs: true
 plugins:
   - search
