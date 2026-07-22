@@ -56,4 +56,6 @@ RUN chmod +x /usr/local/bin/start-container
 
 EXPOSE 8000
 
+USER sail
+
 ENTRYPOINT ["start-container"]
